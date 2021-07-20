@@ -1,15 +1,20 @@
 <h1 align="center">Hi there, I'm Paul 👋</h1>
 <h3 align="center">I'm a Python Developer</h3>
 
-- 🔭 I’m currently studying at **Yandex.Praktikum**
-- 🌱 I’m currently learning **Refactoring, Design Patterns and PostgreSQL**
-- 👨‍💻 My projects are available at https://github.com/drowsycoder
-- 💬 Ask me about **Python, Django, HTML, CSS**
-- ⚡ My life principle is continuous self-development
-- 📫 You can reach me via telegram @drowsycoder
+<div align="left">
+<ul>
+  <li>🔭 I’m currently studying at <b>Yandex.Praktikum</b></li>
+  <li>🌱 I’m currently learning <b>Refactoring, Design Patterns and PostgreSQL</b></li>
+  <li>👨‍💻 My projects are available at https://github.com/drowsycoder</li>
+  <li>💬 Ask me about <b>Python, Django, HTML, CSS</b></li>
+  <li>⚡ My life principle is continuous self-development</li>
+  <li>📫 You can reach me via telegram <a href="https://t.me/drowsycoder">@drowsycoder</a></li>
+</ul>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="center">
+<h3>Languages and Tools:</h3>
+<p>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
@@ -22,3 +27,6 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
+</div>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=drowsycoder&show_icons=true&locale=en" alt="matacoder" /></p>
