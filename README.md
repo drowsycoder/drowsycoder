@@ -29,5 +29,6 @@
 </p>
 </div>
 
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=drowsycoder.drowsycoder) -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drowsycoder&show_icons=true&locale=en&layout=compact" alt="drowsycoder" /></p> -->
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=drowsycoder&show_icons=true&locale=en" alt="drowsycoder" /></p> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=drowsycoder&show_icons=true&locale=en" alt="drowsycoder" /></p>
