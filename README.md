@@ -3,8 +3,8 @@
 
 <div align="left">
 <ul>
-  <li>🔭 I’m currently studying at <b>Yandex.Praktikum</b></li>
-  <li>🌱 I’m currently learning <b>Refactoring, Design Patterns and PostgreSQL</b></li>
+  <li>🔭 I’ve finished Back-End Python Developer professional training course by the <b><a href="https://yandexdataschool.com/">Yandex School of Data Analysis</a></b> and I’m currently studying at <b><a href="https://en.hexlet.io/">Hexlet</a></b></li>
+  <li>🌱 I’m currently learning <b>Refactoring</b> and <b>Design Patterns</b></li>
   <li>👨‍💻 My projects are available at https://github.com/drowsycoder</li>
   <li>💬 Ask me about <b>Python, Django, HTML, CSS</b></li>
   <li>⚡ My life principle is continuous self-development</li>
