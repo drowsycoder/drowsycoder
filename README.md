@@ -3,8 +3,8 @@
 
 <div align="left">
 <ul>
-  <li>🔭 I’ve finished Back-End Python Developer professional training course by the <b><a href="https://yandexdataschool.com/">Yandex School of Data Analysis</a></b> and I’m currently studying at <b><a href="https://en.hexlet.io/">Hexlet</a></b></li>
-  <li>🌱 I’m currently learning <b>Refactoring</b>, <b>Code Coverage</b> and <b>Design Patterns</b>. Also I've started learning <b>Android Basics</b>.</li>
+  <li>🔭 I’ve finished Back-End Python Developer professional training course by the <b><a href="https://yandexdataschool.com/">Yandex School of Data Analysis</a></b>, and I’m currently making a code review at <b><a href="https://academy.yandex.ru/lyceum/">Yandex Lyceum</a></b></li>
+  <li>🌱 I’m currently studying at <b><a href="https://en.hexlet.io/">Hexlet</a></b> and learning <b>Python Best Practices</b>, <b>Refactoring</b>, <b>Code Coverage</b>, and <b>Design Patterns</b></li>
   <li>👨‍💻 My projects are available at https://github.com/drowsycoder</li>
   <li>💬 Ask me about <b>Python, Django, HTML, CSS</b></li>
   <li>⚡ My life principle is continuous self-development</li>
@@ -31,4 +31,4 @@
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=drowsycoder.drowsycoder) -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drowsycoder&show_icons=true&locale=en&layout=compact" alt="drowsycoder" /></p> -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=drowsycoder&show_icons=true&locale=en" alt="drowsycoder" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=drowsycoder&show_icons=true&count_private=true&theme=transparent&locale=en" alt="drowsycoder" /></p>
